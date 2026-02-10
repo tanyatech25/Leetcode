@@ -22,4 +22,12 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/tanyatech25/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tanyatech25/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+## Array
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/tanyatech25/Leetcode/tree/master/1929-concatenation-of-array) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/tanyatech25/Leetcode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
