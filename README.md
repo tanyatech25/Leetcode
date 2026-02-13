@@ -9,6 +9,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/tanyatech25/Leetcode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/tanyatech25/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tanyatech25/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/tanyatech25/Leetcode/tree/master/0206-reverse-linked-list) |
@@ -16,6 +17,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/tanyatech25/Leetcode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/tanyatech25/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tanyatech25/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/tanyatech25/Leetcode/tree/master/0876-middle-of-the-linked-list) |
