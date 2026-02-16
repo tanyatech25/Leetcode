@@ -9,6 +9,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/tanyatech25/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/tanyatech25/Leetcode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/tanyatech25/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tanyatech25/Leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -18,6 +19,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/tanyatech25/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/tanyatech25/Leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/tanyatech25/Leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/tanyatech25/Leetcode/tree/master/0141-linked-list-cycle) |
