@@ -92,4 +92,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tanyatech25/Leetcode/tree/master/0020-valid-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0868-binary-gap](https://github.com/tanyatech25/Leetcode/tree/master/0868-binary-gap) |
 <!---LeetCode Topics End-->
