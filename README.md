@@ -29,6 +29,7 @@
 | [0141-linked-list-cycle](https://github.com/tanyatech25/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tanyatech25/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tanyatech25/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0611-valid-triangle-number](https://github.com/tanyatech25/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0876-middle-of-the-linked-list](https://github.com/tanyatech25/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Table
 |  |
@@ -45,6 +46,7 @@
 | [0074-search-a-2d-matrix](https://github.com/tanyatech25/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/tanyatech25/Leetcode/tree/master/0075-sort-colors) |
 | [0485-max-consecutive-ones](https://github.com/tanyatech25/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0611-valid-triangle-number](https://github.com/tanyatech25/Leetcode/tree/master/0611-valid-triangle-number) |
 | [1470-shuffle-the-array](https://github.com/tanyatech25/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/tanyatech25/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Simulation
@@ -68,6 +70,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/tanyatech25/Leetcode/tree/master/0075-sort-colors) |
+| [0611-valid-triangle-number](https://github.com/tanyatech25/Leetcode/tree/master/0611-valid-triangle-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -80,6 +83,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/tanyatech25/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0611-valid-triangle-number](https://github.com/tanyatech25/Leetcode/tree/master/0611-valid-triangle-number) |
 ## Matrix
 |  |
 | ------- |
@@ -96,4 +100,8 @@
 |  |
 | ------- |
 | [0868-binary-gap](https://github.com/tanyatech25/Leetcode/tree/master/0868-binary-gap) |
+## Greedy
+|  |
+| ------- |
+| [0611-valid-triangle-number](https://github.com/tanyatech25/Leetcode/tree/master/0611-valid-triangle-number) |
 <!---LeetCode Topics End-->
