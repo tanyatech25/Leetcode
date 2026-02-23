@@ -42,6 +42,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tanyatech25/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/tanyatech25/Leetcode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tanyatech25/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/tanyatech25/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Array
 |  |
 | ------- |
@@ -75,6 +76,7 @@
 | [0013-roman-to-integer](https://github.com/tanyatech25/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/tanyatech25/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/tanyatech25/Leetcode/tree/master/0020-valid-parentheses) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/tanyatech25/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Sorting
 |  |
 | ------- |
@@ -113,6 +115,7 @@
 | ------- |
 | [0645-set-mismatch](https://github.com/tanyatech25/Leetcode/tree/master/0645-set-mismatch) |
 | [0868-binary-gap](https://github.com/tanyatech25/Leetcode/tree/master/0868-binary-gap) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/tanyatech25/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Greedy
 |  |
 | ------- |
@@ -121,4 +124,12 @@
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tanyatech25/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/tanyatech25/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Hash Function
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/tanyatech25/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
