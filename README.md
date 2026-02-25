@@ -56,6 +56,7 @@
 | [0485-max-consecutive-ones](https://github.com/tanyatech25/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0611-valid-triangle-number](https://github.com/tanyatech25/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/tanyatech25/Leetcode/tree/master/0645-set-mismatch) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/tanyatech25/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tanyatech25/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/tanyatech25/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/tanyatech25/Leetcode/tree/master/1470-shuffle-the-array) |
@@ -85,6 +86,7 @@
 | [0075-sort-colors](https://github.com/tanyatech25/Leetcode/tree/master/0075-sort-colors) |
 | [0611-valid-triangle-number](https://github.com/tanyatech25/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/tanyatech25/Leetcode/tree/master/0645-set-mismatch) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/tanyatech25/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tanyatech25/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Dynamic Programming
 |  |
@@ -118,6 +120,7 @@
 | ------- |
 | [0645-set-mismatch](https://github.com/tanyatech25/Leetcode/tree/master/0645-set-mismatch) |
 | [0868-binary-gap](https://github.com/tanyatech25/Leetcode/tree/master/0868-binary-gap) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/tanyatech25/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/tanyatech25/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Greedy
 |  |
@@ -126,6 +129,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/tanyatech25/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tanyatech25/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Rolling Hash
 |  |
