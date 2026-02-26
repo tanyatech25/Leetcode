@@ -24,6 +24,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/tanyatech25/Leetcode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/tanyatech25/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/tanyatech25/Leetcode/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/tanyatech25/Leetcode/tree/master/0061-rotate-list) |
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/tanyatech25/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/tanyatech25/Leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/tanyatech25/Leetcode/tree/master/0027-remove-element) |
 | [0074-search-a-2d-matrix](https://github.com/tanyatech25/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/tanyatech25/Leetcode/tree/master/0075-sort-colors) |
@@ -85,6 +87,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/tanyatech25/Leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/tanyatech25/Leetcode/tree/master/0075-sort-colors) |
 | [0611-valid-triangle-number](https://github.com/tanyatech25/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/tanyatech25/Leetcode/tree/master/0645-set-mismatch) |
