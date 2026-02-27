@@ -7,6 +7,7 @@
 | [0009-palindrome-number](https://github.com/tanyatech25/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/tanyatech25/Leetcode/tree/master/0013-roman-to-integer) |
 | [0509-fibonacci-number](https://github.com/tanyatech25/Leetcode/tree/master/0509-fibonacci-number) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/tanyatech25/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Linked List
 |  |
 | ------- |
@@ -84,6 +85,7 @@
 | [0020-valid-parentheses](https://github.com/tanyatech25/Leetcode/tree/master/0020-valid-parentheses) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/tanyatech25/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/tanyatech25/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/tanyatech25/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Sorting
 |  |
 | ------- |
@@ -157,4 +159,16 @@
 |  |
 | ------- |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/tanyatech25/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/tanyatech25/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+## Union-Find
+|  |
+| ------- |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/tanyatech25/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+## Ordered Set
+|  |
+| ------- |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/tanyatech25/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 <!---LeetCode Topics End-->
