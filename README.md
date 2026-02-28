@@ -7,6 +7,7 @@
 | [0009-palindrome-number](https://github.com/tanyatech25/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/tanyatech25/Leetcode/tree/master/0013-roman-to-integer) |
 | [0509-fibonacci-number](https://github.com/tanyatech25/Leetcode/tree/master/0509-fibonacci-number) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/tanyatech25/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/tanyatech25/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Linked List
 |  |
@@ -71,6 +72,7 @@
 | ------- |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/tanyatech25/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1441-build-an-array-with-stack-operations](https://github.com/tanyatech25/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/tanyatech25/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1929-concatenation-of-array](https://github.com/tanyatech25/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Recursion
 |  |
@@ -132,6 +134,7 @@
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/tanyatech25/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/tanyatech25/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/tanyatech25/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/tanyatech25/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Greedy
 |  |
 | ------- |
