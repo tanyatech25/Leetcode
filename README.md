@@ -67,6 +67,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tanyatech25/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/tanyatech25/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/tanyatech25/Leetcode/tree/master/1470-shuffle-the-array) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/tanyatech25/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1929-concatenation-of-array](https://github.com/tanyatech25/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
@@ -119,6 +120,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/tanyatech25/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/tanyatech25/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 ## Trie
 |  |
 | ------- |
@@ -142,6 +144,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/tanyatech25/Leetcode/tree/master/0011-container-with-most-water) |
 | [0611-valid-triangle-number](https://github.com/tanyatech25/Leetcode/tree/master/0611-valid-triangle-number) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/tanyatech25/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/tanyatech25/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Counting Sort
 |  |
