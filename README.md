@@ -204,4 +204,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/tanyatech25/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/tanyatech25/Leetcode/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
