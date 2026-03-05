@@ -136,6 +136,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tanyatech25/Leetcode/tree/master/0020-valid-parentheses) |
+| [0145-binary-tree-postorder-traversal](https://github.com/tanyatech25/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [1441-build-an-array-with-stack-operations](https://github.com/tanyatech25/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 ## Bit Manipulation
 |  |
@@ -170,16 +171,19 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/tanyatech25/Leetcode/tree/master/0100-same-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/tanyatech25/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/tanyatech25/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/tanyatech25/Leetcode/tree/master/0100-same-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/tanyatech25/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/tanyatech25/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/tanyatech25/Leetcode/tree/master/0100-same-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/tanyatech25/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/tanyatech25/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Breadth-First Search
 |  |
