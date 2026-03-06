@@ -172,24 +172,28 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/tanyatech25/Leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/tanyatech25/Leetcode/tree/master/0101-symmetric-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tanyatech25/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/tanyatech25/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/tanyatech25/Leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/tanyatech25/Leetcode/tree/master/0101-symmetric-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tanyatech25/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/tanyatech25/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/tanyatech25/Leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/tanyatech25/Leetcode/tree/master/0101-symmetric-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tanyatech25/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/tanyatech25/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/tanyatech25/Leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/tanyatech25/Leetcode/tree/master/0101-symmetric-tree) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/tanyatech25/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Union-Find
 |  |
