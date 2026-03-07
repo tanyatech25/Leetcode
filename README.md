@@ -100,6 +100,7 @@
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/tanyatech25/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/tanyatech25/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/tanyatech25/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/tanyatech25/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/tanyatech25/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Sorting
 |  |
@@ -115,6 +116,7 @@
 | ------- |
 | [0118-pascals-triangle](https://github.com/tanyatech25/Leetcode/tree/master/0118-pascals-triangle) |
 | [0509-fibonacci-number](https://github.com/tanyatech25/Leetcode/tree/master/0509-fibonacci-number) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/tanyatech25/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Memoization
 |  |
 | ------- |
@@ -220,4 +222,8 @@
 |  |
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/tanyatech25/Leetcode/tree/master/0196-delete-duplicate-emails) |
+## Sliding Window
+|  |
+| ------- |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/tanyatech25/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 <!---LeetCode Topics End-->
