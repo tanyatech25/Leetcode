@@ -50,6 +50,7 @@
 | [0645-set-mismatch](https://github.com/tanyatech25/Leetcode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tanyatech25/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/tanyatech25/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1980-find-unique-binary-string](https://github.com/tanyatech25/Leetcode/tree/master/1980-find-unique-binary-string) |
 ## Array
 |  |
 | ------- |
@@ -71,6 +72,7 @@
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/tanyatech25/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/tanyatech25/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1929-concatenation-of-array](https://github.com/tanyatech25/Leetcode/tree/master/1929-concatenation-of-array) |
+| [1980-find-unique-binary-string](https://github.com/tanyatech25/Leetcode/tree/master/1980-find-unique-binary-string) |
 ## Simulation
 |  |
 | ------- |
@@ -101,6 +103,7 @@
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/tanyatech25/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/tanyatech25/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/tanyatech25/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1980-find-unique-binary-string](https://github.com/tanyatech25/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/tanyatech25/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Sorting
 |  |
@@ -226,4 +229,8 @@
 |  |
 | ------- |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/tanyatech25/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+## Backtracking
+|  |
+| ------- |
+| [1980-find-unique-binary-string](https://github.com/tanyatech25/Leetcode/tree/master/1980-find-unique-binary-string) |
 <!---LeetCode Topics End-->
