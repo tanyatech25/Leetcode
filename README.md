@@ -6,6 +6,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/tanyatech25/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/tanyatech25/Leetcode/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/tanyatech25/Leetcode/tree/master/0067-add-binary) |
 | [0509-fibonacci-number](https://github.com/tanyatech25/Leetcode/tree/master/0509-fibonacci-number) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/tanyatech25/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/tanyatech25/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -76,6 +77,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/tanyatech25/Leetcode/tree/master/0067-add-binary) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/tanyatech25/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1441-build-an-array-with-stack-operations](https://github.com/tanyatech25/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/tanyatech25/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -95,6 +97,7 @@
 | [0013-roman-to-integer](https://github.com/tanyatech25/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/tanyatech25/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/tanyatech25/Leetcode/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/tanyatech25/Leetcode/tree/master/0067-add-binary) |
 | [0696-count-binary-substrings](https://github.com/tanyatech25/Leetcode/tree/master/0696-count-binary-substrings) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/tanyatech25/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/tanyatech25/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -148,6 +151,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/tanyatech25/Leetcode/tree/master/0067-add-binary) |
 | [0645-set-mismatch](https://github.com/tanyatech25/Leetcode/tree/master/0645-set-mismatch) |
 | [0868-binary-gap](https://github.com/tanyatech25/Leetcode/tree/master/0868-binary-gap) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/tanyatech25/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
