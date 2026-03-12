@@ -134,6 +134,7 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/tanyatech25/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0611-valid-triangle-number](https://github.com/tanyatech25/Leetcode/tree/master/0611-valid-triangle-number) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/tanyatech25/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Matrix
 |  |
 | ------- |
@@ -168,6 +169,7 @@
 | [0611-valid-triangle-number](https://github.com/tanyatech25/Leetcode/tree/master/0611-valid-triangle-number) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/tanyatech25/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/tanyatech25/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/tanyatech25/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Counting Sort
 |  |
 | ------- |
@@ -211,6 +213,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/tanyatech25/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/tanyatech25/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Ordered Set
 |  |
@@ -245,4 +248,12 @@
 | ------- |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/tanyatech25/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/tanyatech25/Leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/tanyatech25/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/tanyatech25/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->
