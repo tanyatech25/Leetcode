@@ -160,6 +160,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/tanyatech25/Leetcode/tree/master/0020-valid-parentheses) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tanyatech25/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/tanyatech25/Leetcode/tree/master/0155-min-stack) |
 | [1441-build-an-array-with-stack-operations](https://github.com/tanyatech25/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 ## Bit Manipulation
 |  |
@@ -269,4 +270,8 @@
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/tanyatech25/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/tanyatech25/Leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
