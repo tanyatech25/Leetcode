@@ -36,6 +36,7 @@
 | [0016-3sum-closest](https://github.com/tanyatech25/Leetcode/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/tanyatech25/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/tanyatech25/Leetcode/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tanyatech25/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/tanyatech25/Leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/tanyatech25/Leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/tanyatech25/Leetcode/tree/master/0141-linked-list-cycle) |
@@ -108,6 +109,7 @@
 | [0013-roman-to-integer](https://github.com/tanyatech25/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/tanyatech25/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/tanyatech25/Leetcode/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tanyatech25/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/tanyatech25/Leetcode/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/tanyatech25/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0696-count-binary-substrings](https://github.com/tanyatech25/Leetcode/tree/master/0696-count-binary-substrings) |
@@ -279,4 +281,8 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/tanyatech25/Leetcode/tree/master/0155-min-stack) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tanyatech25/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
