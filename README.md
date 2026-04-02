@@ -8,6 +8,7 @@
 | [0009-palindrome-number](https://github.com/tanyatech25/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/tanyatech25/Leetcode/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/tanyatech25/Leetcode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/tanyatech25/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/tanyatech25/Leetcode/tree/master/0509-fibonacci-number) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/tanyatech25/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/tanyatech25/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -137,6 +138,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/tanyatech25/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/tanyatech25/Leetcode/tree/master/0118-pascals-triangle) |
 | [0509-fibonacci-number](https://github.com/tanyatech25/Leetcode/tree/master/0509-fibonacci-number) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/tanyatech25/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -145,6 +147,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/tanyatech25/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/tanyatech25/Leetcode/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
