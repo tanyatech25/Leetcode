@@ -175,6 +175,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/tanyatech25/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/tanyatech25/Leetcode/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/tanyatech25/Leetcode/tree/master/0682-baseball-game) |
+| [0901-online-stock-span](https://github.com/tanyatech25/Leetcode/tree/master/0901-online-stock-span) |
 | [1441-build-an-array-with-stack-operations](https://github.com/tanyatech25/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 ## Bit Manipulation
 |  |
@@ -289,8 +290,17 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/tanyatech25/Leetcode/tree/master/0155-min-stack) |
+| [0901-online-stock-span](https://github.com/tanyatech25/Leetcode/tree/master/0901-online-stock-span) |
 ## String Matching
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tanyatech25/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/tanyatech25/Leetcode/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/tanyatech25/Leetcode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
